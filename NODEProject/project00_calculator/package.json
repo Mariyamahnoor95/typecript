@@ -1,9 +1,10 @@
 {
-  "name": "cli_calculator",
+  "name": "mm_cli_calculator",
   "version": "1.0.0",
   "description": "simple cli calculator with typescript , Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
